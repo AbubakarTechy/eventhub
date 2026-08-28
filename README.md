@@ -11,7 +11,7 @@ A React-based Single Page Event Management Website built with **Vite + React + T
 - React (Vite)
 - Tailwind CSS
 - React Hooks (useState)
- 
+  
 ## Components
 `Header` · `About` · `EventCard` · `Events` · `RegistrationForm` · `Footer`
    
