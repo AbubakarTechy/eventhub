@@ -6,7 +6,7 @@ A React-based Single Page Event Management Website built with **Vite + React +  
 - Browse upcoming events
 - Register for events via a controlled form
 - Reusable component-based architecture
-
+ 
 ## Tech Stack
 - React (Vite)
 - Tailwind CSS
