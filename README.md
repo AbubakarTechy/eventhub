@@ -8,7 +8,7 @@ A React-based Single Page Event Management Website built with **Vite + React +  
 - Reusable component-based architecture
  
 ## Tech Stack
-- React (Vite)
+- React (Vite) 
 - Tailwind CSS
 - React Hooks (useState) 
   
