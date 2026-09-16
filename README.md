@@ -1,8 +1,8 @@
-  #EventHub 🎉
+   #EventHub 🎉
    
 A React-based Single Page Event Management Website built with **Vite + React +  Tailwind CSS**. 
           
-## Features
+## Features 
 - Browse upcoming events 
 - Register for events via a controlled form
 - Reusable component-based architecture
