@@ -19,3 +19,4 @@ A React-based Single Page Event Management Website built with **Vite + React +  
 ## Author
 **Abu Bakar** — [@AbubakarTechy](https://github.com/AbubakarTechy)
  
+ 
