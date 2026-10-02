@@ -9,7 +9,7 @@ A React-based Single Page Event Management Website built with **Vite + React +  
  
 ## Tech Stack 
 - React (Vite) 
-- Tailwind CSS
+- Tailwind CSS 
 - React Hooks (useState)  
    
 ## Components
